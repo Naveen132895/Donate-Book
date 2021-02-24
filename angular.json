@@ -124,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bookdonate"
+    }
+  },
+  "defaultProject": "bookdonate",
+  "cli": {
+    "analytics": false
+  }
 }
